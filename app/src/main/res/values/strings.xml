@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">서비스플라워</string>
+    <string name="url">http://www.letsit.kr/~scflower</string><!-- 앱 실행 시킬 시 보여주는 url 주소를 입력하세요 -->
+    <string name="domain">http://www.letsit.kr/~scflower</string><!-- 도메인 주소를 입력하세요 -->
+</resources>
